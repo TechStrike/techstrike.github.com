@@ -1,2 +1,0 @@
-techstrike.github.com
-=====================
