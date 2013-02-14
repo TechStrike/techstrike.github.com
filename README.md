@@ -1,2 +1,2 @@
-Our Casita in teh Codez 
+Our casita in teh Codez 
 =====================
